@@ -1,0 +1,7 @@
+C:\Calculadora\Calculadora\CalculadoraDomain\bin\Debug\CalculadoraDomain.dll
+C:\Calculadora\Calculadora\CalculadoraDomain\bin\Debug\CalculadoraDomain.pdb
+C:\Calculadora\Calculadora\CalculadoraDomain\bin\Debug\shared.dll
+C:\Calculadora\Calculadora\CalculadoraDomain\bin\Debug\shared.pdb
+C:\Calculadora\Calculadora\CalculadoraDomain\obj\Debug\CalculadoraDomain.csprojResolveAssemblyReference.cache
+C:\Calculadora\Calculadora\CalculadoraDomain\obj\Debug\CalculadoraDomain.dll
+C:\Calculadora\Calculadora\CalculadoraDomain\obj\Debug\CalculadoraDomain.pdb

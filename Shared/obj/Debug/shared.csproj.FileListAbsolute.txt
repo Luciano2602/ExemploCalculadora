@@ -1,0 +1,5 @@
+C:\Calculadora\Calculadora\shared\bin\Debug\shared.dll
+C:\Calculadora\Calculadora\shared\bin\Debug\shared.pdb
+C:\Calculadora\Calculadora\shared\obj\Debug\shared.dll
+C:\Calculadora\Calculadora\shared\obj\Debug\shared.pdb
+C:\Calculadora\Calculadora\shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache

@@ -1,0 +1,27 @@
+<div>
+    <div>
+        <label>Número 1:</label>
+        <input type="number" [(ngModel)]="calculadora.Numero1" />
+    </div>
+
+    <div>
+        <label>Número 2:</label>
+        <input type="number" [(ngModel)]="calculadora.Numero2" />
+    </div>
+
+    <div>
+        <label>Operação</label>
+        <select [(ngModel)]="calculadora.Operacao">
+            <option value="0">Selecione</option>
+            <option *ngFor="let item of operacoes" [value]="item.Id" [selected]="calculadora.Operacao">{{ item.Operacao }}</option>
+        </select>
+    </div>
+
+    <div>
+        <button type="button" [disabled]="!validarParametros()" (click)="calcular()">Calcular</button>
+    </div>
+</div>
+
+<div>
+    <label>Resultado: {{calculadora.Resultado}}</label>
+</div>
